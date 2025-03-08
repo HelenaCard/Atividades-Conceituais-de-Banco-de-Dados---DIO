@@ -12,3 +12,10 @@ Outra ferramenta que podemos utilizar para criar banco de dados é o [DBdesigner
 ![image](https://github.com/user-attachments/assets/056fa5a7-8abc-439e-933f-910dfbd46473)
 
 [Disponível aqui](https://dbdesigner.page.link/dZhBDjCwTWypDp5i7)
+
+Modelo Ordem de Serviço utilizando a ferramenta [Workbench](https://dev.mysql.com/downloads/workbench/)
+
+![alt text](image.png)
+
+
+
