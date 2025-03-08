@@ -6,3 +6,9 @@ Conceitos iniciais de banco de dados utilizando o [Draw.io](https://app.diagrams
 ![image](https://github.com/user-attachments/assets/1a38359e-2dd2-4ac8-a1dc-5fe7539b9e0d)
 
 [Diagram disponível aqui](https://app.diagrams.net/#HHelenaCard%2FAtividades-Conceituais-de-Banco-de-Dados---DIO%2Fmain%2FConceitos%20-%20Banco%20de%20dados.drawio#%7B%22pageId%22%3A%22wSkkp7BTBSVAgogr5LL1%22%7D)
+
+Outra ferramenta que podemos utilizar para criar banco de dados é o [DBdesigner](https://www.dbdesigner.net/)
+
+![image](https://github.com/user-attachments/assets/056fa5a7-8abc-439e-933f-910dfbd46473)
+
+[Disponível aqui](https://dbdesigner.page.link/dZhBDjCwTWypDp5i7)
